@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924549732721",
+    "project_id": "cycle-maxx",
+    "storage_bucket": "cycle-maxx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924549732721:android:4c725924f0828f9ef87ed0",
+        "android_client_info": {
+          "package_name": "com.pheb.cyclemaxx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIhJ5qpqM1d_VmJ89nLYAStqH7xo3XrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
